@@ -1,0 +1,2 @@
+# myparty
+django project
